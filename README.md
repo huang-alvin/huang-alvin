@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently working on [Audio-Shrub](https://audio-shrub.herokuapp.com/): a bandcamp clone where users can post their music and merchandise, make purchases, and stream music.
+- 🌱 I’m currently learning how to handle and validate credit card transactions.
 - 👯 You can find my projects on my [portfolio](https://huang-alvin.github.io/alvinhuang.github.io/) 
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/alvin-huang-8aa750187/)
