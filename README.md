@@ -8,7 +8,7 @@
 
 
 ![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-alvin&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huang-alvin&theme=radical)](https://github.com/huang-alvin/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huang-alvin&theme=radical)](https://github.com/huang-alvin/github-readme-stats) -->
 
 #### Skills:
 <div>
